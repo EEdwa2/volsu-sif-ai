@@ -34,4 +34,4 @@
 8. В названии PR указать: `Решение: Твой Никнейм`.
 
 ## Вопросы
-Задавай их в [Issues](link-to-issues).
+Задавай их в [Issues](https://github.com/Leerion/volsu-sif-ai/issues).
